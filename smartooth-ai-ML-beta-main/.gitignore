@@ -1,0 +1,30 @@
+# Ignorar arquivos do sistema e do VSCode
+.vscode/
+.gitconfig
+.bash_history
+*.log
+*.bak
+*.swp
+
+# Ignorar diretórios do sistema
+AppData/
+OneDrive/
+Documents/
+Pictures/
+Downloads/
+
+# Ignorar arquivos e pastas do sistema
+**/.idea/
+**/.vscode/
+**/.VirtualBox/
+**/.anaconda/
+**/node_modules/
+**/.npm/
+**/.ssh/
+**/.gradle/
+
+# Ignorar arquivos de configuração do sistema
+*.log
+*.bak
+*.swp
+
